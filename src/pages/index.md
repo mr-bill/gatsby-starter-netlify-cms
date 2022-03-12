@@ -1,50 +1,41 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: SAVE UKRAINE
+image: /img/bandiera_desaturata.jpg
+heading: ' "'
+subheading: Rete di volontari e libere associazioni a sostegno della crisi
+  umanitaria in Ukraina
 mainpitch:
-  title: Why Kaldi
+  title: '"'
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Siamo una rete spontanea ed indipendente di volontari, gruppi locali ed
+    associazioni attivatesi per un rapido sostegno agli ucraini.
+
+
+    Raccogliamo beni di prima necessità, ci occupiamo di farli arrivare in Ucraina, di organizzare un sostegno per chi fugge dalla guerra ed arriva in Italia.
+description: FACCIAMO RETE CON ALTRE REALTA’, CERCHIAMO VOLONTARI ANCHE PER
+  ALTRE REALTA’ SUL TERRITORIO - SCRIVETECI A info@cascinaselva.org
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Aiuti umanitari
+
+        C'è necessità di vari tipi di beni, dal cibo ai medicinali. Consulta la lista per scoprire cosa può servire.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |
+        Offriti come volontario
+        Puoi donare il tuo tempo aiutandoci con le operazioni di volontariato.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        Offri servizi
+
+        Compila questo form se offri servizi di istruzione ai bambini ucraini (presto verranno aggiunti altri servizi - se vorresti offrire servizi medici, legali o di altre tipologie, scrivici).
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Accoglienza
+
+        Se sei in grado di accogliere dei rifugiati o puoi trovare loro una sistemazione.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -52,15 +43,205 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Lista dei beni di prima necessità
+  description: >-
+    SOPRAVVIVENZA
+
+
+    -Sacchi a pelo (sacchi)
+
+
+    -Coperte Piumini (sacchi)
+
+
+    -Tende da campeggio piccole, suoie, materassini gonfiabili
+
+
+    -Cappelli/sciape/guanti
+
+
+    -Coltellini multiuso tipo svizzeri
+
+
+    -Nastro forte in tela tipo Gaffer
+
+
+    –Candele
+
+
+    PRIMA NECESSITA’
+
+
+    -Latte in polvere per bambini
+
+
+    -Omogenizzati
+
+
+    -Salviettine
+
+
+    -Pannolini
+
+
+    -Biberon
+
+
+    -Saponi,
+
+
+    -Dentifrici
+
+
+    -Spazzolini
+
+
+    -Assorbenti
+
+
+    -Carta assorbente a strappo (tipo skottex)
+
+
+    -Cibo in scatola da consumare sul posto —tipo tonno, legumi pane confezionato, cioccolato caramelle, brioches, crakers, latte in polvere, piccoli succhi, bottigliette acqua, posate e piatti usa e getta, barrette energetiche, biscotti
+
+
+    -Piccoli giocattoli (senza esagerare ne buttiamo un po nei generi), tipo pennarelli, piccoli peluches, lego, fogli, pastelli, gomme, piccole bamboline, macchinine..NIENTE pistoline e cose che ricordino la violenza in genere, ma mettiamoci invece I DISEGNI DEI NOSTRI FIGLI
+
+
+    MEDICINE
+
+
+    Antinfiammatori e da banco tipo e altri tipo
+
+
+    -Aspirina
+
+
+    -Momendol 
+
+
+    -Tachipirina 500 mg
+
+
+    -Tachipirina sciroppo
+
+
+    -Nurofen sospensione
+
+
+    -Antibiotici
+
+
+    -Amoxicillina 
+
+
+    -Amoxi+ clavulanico compresse e sosp. Pediatrica
+
+
+    -Ciprofloxacina 500mg
+
+
+    -Azitromicina 500mg
+
+
+    -Levofloxacina 50g
+
+
+    -Piccoli Kit pronto soccorso
+
+
+    -Salviettine disinfettanti
+
+
+    -Cerotti
+
+
+    TECNOLOGICI
+
+
+    -Meglio se tecnologia SOLARE o attivazione meccanica
+
+
+    -Walkie Talkie
+
+
+    -Torce Pile
+
+
+    -Power Bank
+
+
+    -Micro pannelli solari per ricariche dispositivi
+
+      OSPEDALIERA
+
+    -Materiale bendaggio emostatico e non
+
+
+    -Materiale medico chirurgico
+
+
+    -Medicazione occlusiva per il torace
+
+
+    –Supporti esterni (disp. fissaggio)
+
+
+    –Antisettico
+
+
+    -Anticoaugulanti
+
+
+    -Antidolorifici
+
+
+    -Antibiotici
+
+
+    -Lacci emostatici
+
+
+    -Coperta termica
+
+
+    -Barelle tipo yuta
+
+
+    -Kit per trasfusione di sangue
+
+
+    -Siringhe 5ml e 10ml
+
+
+    -Guanti monouso
+
+
+    -Barelle morbide
+
+
+    -Tubo nasofaringeo
+
+
+    –Fermi intramidollari senza navigazione
+
+
+    -Tubo laringeo
+
+
+    -Kit per conicotomia
+
+
+    -Ago da decompressione
+
+
+    -Collari ambu perfit a.c.e.
+
+
+    -Cintura sam pelvic sling II
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: aaa
+    image: /img/bandiera_desaturata.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
